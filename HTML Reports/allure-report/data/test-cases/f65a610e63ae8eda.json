@@ -1,0 +1,52 @@
+{
+  "uid" : "f65a610e63ae8eda",
+  "name" : "test_browser_open",
+  "fullName" : "test_TC001#test_browser_open",
+  "historyId" : "eb23f5fee9a7c26af304911f5ee476b5",
+  "time" : {
+    "start" : 1588243798776,
+    "stop" : 1588243798776,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: duplicate",
+  "statusTrace" : "('test_TC001.py', 4, 'Skipped: duplicate')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_TC001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NHK7OTJ"
+  }, {
+    "name" : "thread",
+    "value" : "6624-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f65a610e63ae8eda.json",
+  "parameterValues" : [ ]
+}

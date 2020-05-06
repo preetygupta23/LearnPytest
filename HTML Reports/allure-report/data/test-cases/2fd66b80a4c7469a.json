@@ -1,0 +1,50 @@
+{
+  "uid" : "2fd66b80a4c7469a",
+  "name" : "test_WindowHandler",
+  "fullName" : "test_WindowHandler#test_WindowHandler",
+  "historyId" : "54ec145d69336dd7b7f7da9e5cbbe458",
+  "time" : {
+    "start" : 1588243823263,
+    "stop" : 1588243859963,
+    "duration" : 36700
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_WindowHandler"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NHK7OTJ"
+  }, {
+    "name" : "thread",
+    "value" : "6624-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_WindowHandler"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fd66b80a4c7469a.json",
+  "parameterValues" : [ ]
+}

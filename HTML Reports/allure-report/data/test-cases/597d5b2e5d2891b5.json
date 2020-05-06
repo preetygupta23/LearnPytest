@@ -1,0 +1,50 @@
+{
+  "uid" : "597d5b2e5d2891b5",
+  "name" : "test_First",
+  "fullName" : "test_FirstTestCase#test_First",
+  "historyId" : "b0d2e23a347ac1b1ebd00b8d7af2e305",
+  "time" : {
+    "start" : 1588243752433,
+    "stop" : 1588243766034,
+    "duration" : 13601
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NHK7OTJ"
+  }, {
+    "name" : "thread",
+    "value" : "6624-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "597d5b2e5d2891b5.json",
+  "parameterValues" : [ ]
+}

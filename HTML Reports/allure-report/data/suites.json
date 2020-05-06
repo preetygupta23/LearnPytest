@@ -1,0 +1,120 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_FirstTestCase",
+    "children" : [ {
+      "name" : "test_First",
+      "uid" : "597d5b2e5d2891b5",
+      "parentUid" : "7f837acb8c7124dc2f2bca06ef74e313",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588243752433,
+        "stop" : 1588243766034,
+        "duration" : 13601
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7f837acb8c7124dc2f2bca06ef74e313"
+  }, {
+    "name" : "test_KeyboardOperation",
+    "children" : [ {
+      "name" : "test_KeyBoard",
+      "uid" : "4378d1ca8d976d92",
+      "parentUid" : "388bd568f4a914f9b1745f756168d7ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588243766040,
+        "stop" : 1588243778086,
+        "duration" : 12046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "388bd568f4a914f9b1745f756168d7ab"
+  }, {
+    "name" : "test_MouseOperation",
+    "children" : [ {
+      "name" : "test_First",
+      "uid" : "4060972fe1af51d9",
+      "parentUid" : "7f742ecda5ada0c36fc4c164d6376519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588243778090,
+        "stop" : 1588243798745,
+        "duration" : 20655
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7f742ecda5ada0c36fc4c164d6376519"
+  }, {
+    "name" : "test_TC001",
+    "children" : [ {
+      "name" : "test_browser_open",
+      "uid" : "f65a610e63ae8eda",
+      "parentUid" : "d87dc002ec239354070a8d313e094597",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1588243798776,
+        "stop" : 1588243798776,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_dup_browser_open",
+      "uid" : "f9dc23b8d01d8b3",
+      "parentUid" : "d87dc002ec239354070a8d313e094597",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1588243800842,
+        "stop" : 1588243800842,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d87dc002ec239354070a8d313e094597"
+  }, {
+    "name" : "test_TC_001",
+    "children" : [ {
+      "name" : "test_browser_open",
+      "uid" : "7846bc56963bf578",
+      "parentUid" : "f8f421f347af934d4c72ae36f88f61cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588243806140,
+        "stop" : 1588243822819,
+        "duration" : 16679
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f8f421f347af934d4c72ae36f88f61cb"
+  }, {
+    "name" : "test_WindowHandler",
+    "children" : [ {
+      "name" : "test_WindowHandler",
+      "uid" : "2fd66b80a4c7469a",
+      "parentUid" : "08986f9c6e88494b49eaab2070858a4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588243823263,
+        "stop" : 1588243859963,
+        "duration" : 36700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "08986f9c6e88494b49eaab2070858a4d"
+  } ]
+}

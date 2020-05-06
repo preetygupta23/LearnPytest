@@ -1,0 +1,80 @@
+{
+  "uid" : "7846bc56963bf578",
+  "name" : "test_browser_open",
+  "fullName" : "test_TC_001#test_browser_open",
+  "historyId" : "bdfdd786d6544abe4d251b64261f366a",
+  "time" : {
+    "start" : 1588243806140,
+    "stop" : 1588243822819,
+    "duration" : 16679
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setpath",
+    "time" : {
+      "start" : 1588243800848,
+      "stop" : 1588243806140,
+      "duration" : 5292
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setpath::0",
+    "time" : {
+      "start" : 1588243822820,
+      "stop" : 1588243823231,
+      "duration" : 411
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_TC_001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NHK7OTJ"
+  }, {
+    "name" : "thread",
+    "value" : "6624-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7846bc56963bf578.json",
+  "parameterValues" : [ ]
+}

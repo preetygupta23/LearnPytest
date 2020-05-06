@@ -1,0 +1,71 @@
+[ {
+  "uid" : "f65a610e63ae8eda",
+  "name" : "test_browser_open",
+  "time" : {
+    "start" : 1588243798776,
+    "stop" : 1588243798776,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7846bc56963bf578",
+  "name" : "test_browser_open",
+  "time" : {
+    "start" : 1588243806140,
+    "stop" : 1588243822819,
+    "duration" : 16679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fd66b80a4c7469a",
+  "name" : "test_WindowHandler",
+  "time" : {
+    "start" : 1588243823263,
+    "stop" : 1588243859963,
+    "duration" : 36700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "597d5b2e5d2891b5",
+  "name" : "test_First",
+  "time" : {
+    "start" : 1588243752433,
+    "stop" : 1588243766034,
+    "duration" : 13601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4060972fe1af51d9",
+  "name" : "test_First",
+  "time" : {
+    "start" : 1588243778090,
+    "stop" : 1588243798745,
+    "duration" : 20655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9dc23b8d01d8b3",
+  "name" : "test_dup_browser_open",
+  "time" : {
+    "start" : 1588243800842,
+    "stop" : 1588243800842,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4378d1ca8d976d92",
+  "name" : "test_KeyBoard",
+  "time" : {
+    "start" : 1588243766040,
+    "stop" : 1588243778086,
+    "duration" : 12046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
