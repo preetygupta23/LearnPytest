@@ -9,8 +9,8 @@ import selenium.webdriver.support.expected_conditions as ec
 @pytest.fixture()
 def setpath():
         global driver
-        path = "C:\\chromedriver\\chromedriver.exe"
-        driver = Chrome(executable_path=path)
+        #path = "C:\\chromedriver\\chromedriver.exe"
+        driver = Chrome()
         yield
         driver.close()
 

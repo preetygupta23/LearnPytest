@@ -1,0 +1,13 @@
+2020-08-13 15:00:27,594 :INFO :test_logging :A information
+2020-08-13 15:00:27,594 :WARNING :test_logging :A warning message
+2020-08-13 15:00:27,594 :ERROR :test_logging :A major error has occurred
+2020-08-13 15:00:27,594 :CRITICAL :test_logging :Critical issue
+2020-08-13 15:02:29,022 :INFO :test_logging :A information
+2020-08-13 15:02:29,022 :WARNING :test_logging :A warning message
+2020-08-13 15:02:29,023 :ERROR :test_logging :A major error has occurred
+2020-08-13 15:02:29,023 :CRITICAL :test_logging :Critical issue
+2020-08-13 15:04:41,849 :DEBUG :test_logging :A debug statement is executed
+2020-08-13 15:04:41,849 :INFO :test_logging :A information
+2020-08-13 15:04:41,849 :WARNING :test_logging :A warning message
+2020-08-13 15:04:41,861 :ERROR :test_logging :A major error has occurred
+2020-08-13 15:04:41,861 :CRITICAL :test_logging :Critical issue
