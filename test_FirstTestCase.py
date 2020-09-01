@@ -4,10 +4,9 @@ from selenium.webdriver.support.select import Select
 import Take_ScreenShot
 
 def test_First():
-    path = "C:\\chromedriver\\chromedriver.exe"
-    driver: WebDriver = Chrome(executable_path=path)
+    #path = "..\\Drivers\\chromedriver.exe"
+    driver: WebDriver = Chrome()
     driver.get("https://www.theTestingWorld.com/testings")
-
     driver.maximize_window()
     Take_ScreenShot.take_ScreenShot(driver,"ScreenShot2")
 
